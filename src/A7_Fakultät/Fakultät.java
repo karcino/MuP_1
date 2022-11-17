@@ -8,8 +8,8 @@ public class Fakultät {
 
     @Test
     public void shouldReturnFakultät() {
-        assertEquals(120, fakultaet(5));
-        assertEquals(1, fakultaet(0));
+        Assert.assertEquals(120, fakultaet(5));
+        Assert.assertEquals(1, fakultaet(0));
     }
 
     private long fakultaet(long i) {

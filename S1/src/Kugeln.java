@@ -1,5 +1,8 @@
 public class Kugeln {
 
+    /**
+     * @author Paul Fiedler 3726896
+     */
     public static void main(String[] args) {
 
         Kugel r5 = new Kugel(5);

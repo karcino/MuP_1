@@ -10,7 +10,7 @@ public class HypotenuseTest {
 
     @Test
     public void shouldReturnHypotenuse() {
-        assertEquals("5.0", hypotenuse(3.0,4.0));
+        Assert.assertEquals("5.0", hypotenuse(3.0,4.0));
     }
 
     public static String hypotenuse(double a, double b) {

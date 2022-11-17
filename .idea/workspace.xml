@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04acf0a8-ac20-4feb-a58c-e59066404789" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kugeln.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MuP1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S1/src/Kugel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S1/src/Kugeln.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A4_Hypotenuse/HypotenuseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A5_Dauer_in_Sekunden/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A6_Conditionals/Conditionals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A7_Fakultät/Fakultät.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A8_Array_iterieren/Array_iterrieren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A9_Sieb_des_Erastosthenes/SDE_Version_1.java" afterDir="false" />
+    <list default="true" id="04acf0a8-ac20-4feb-a58c-e59066404789" name="Changes" comment="letzte Änderungen">
+      <change afterPath="$PROJECT_DIR$/S2/S2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2/src/PythagoraeischeZahlentripel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S1/src/Kugeln.java" beforeDir="false" afterPath="$PROJECT_DIR$/S1/src/Kugeln.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A4_Hypotenuse/HypotenuseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4_Hypotenuse/HypotenuseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A7_Fakultät/Fakultät.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A7_Fakultät/Fakultät.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A8_Array_iterieren/Array_iterrieren.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A8_Array_iterieren/Array_iterrieren.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A9_Sieb_des_Erastosthenes/SDE_Version_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A9_Sieb_des_Erastosthenes/SDE_Version_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="editable-svg" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,33 +45,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "9",
-    "last_opened_file_path": "/Users/p.fiedler/IdeaProjects/MuP1",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;9&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/p.fiedler/IdeaProjects/MuP1&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/S1/src" />
+      <recent name="$PROJECT_DIR$/S2" />
       <recent name="$PROJECT_DIR$/S1" />
+      <recent name="$PROJECT_DIR$/S1/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Kugeln (1)">
+  <component name="RunManager" selected="Application.PythagoraeischeZahlentripel">
     <configuration name="Kugeln (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kugeln" />
       <module name="S1" />
@@ -101,16 +93,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S1_Klassen_Datentypen_Ausfdruecke in MuP1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MuP1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="S1_Klassen_Datentypen_Ausfdruecke.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="S1_Klassen_Datentypen_Ausfdruecke" />
-      <option name="TEST_OBJECT" value="package" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="S2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PythagoraeischeZahlentripel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PythagoraeischeZahlentripel" />
+      <module name="S2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,29 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SDE_Version_1.sollSieben" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MuP1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A9_Sieb_des_Erastosthenes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="A9_Sieb_des_Erastosthenes" />
-      <option name="MAIN_CLASS_NAME" value="A9_Sieb_des_Erastosthenes.SDE_Version_1" />
-      <option name="METHOD_NAME" value="sollSieben" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PythagoraeischeZahlentripel" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Kugeln (1)" />
         <item itemvalue="Application.Kugeln" />
         <item itemvalue="JUnit.SDE_Version_1" />
-        <item itemvalue="JUnit.S1_Klassen_Datentypen_Ausfdruecke in MuP1" />
-        <item itemvalue="JUnit.SDE_Version_1.sollSieben" />
       </list>
     </recent_temporary>
   </component>
@@ -169,8 +145,21 @@
       <workItem from="1666405631838" duration="3661000" />
       <workItem from="1666795773608" duration="1025000" />
       <workItem from="1666886649348" duration="5000" />
-      <workItem from="1667743827052" duration="1961000" />
+      <workItem from="1667743827052" duration="2800000" />
+      <workItem from="1667833465593" duration="622000" />
+      <workItem from="1667907448537" duration="183000" />
+      <workItem from="1667913618356" duration="66000" />
+      <workItem from="1668461564998" duration="1774000" />
+      <workItem from="1668679841822" duration="9422000" />
     </task>
+    <task id="LOCAL-00001" summary="letzte Änderungen">
+      <created>1667745989228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667745989228</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +175,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="letzte Änderungen" />
+    <option name="LAST_COMMIT_MESSAGE" value="letzte Änderungen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

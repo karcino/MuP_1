@@ -8,7 +8,7 @@ public class SDE_Version_1 {
 
     @Test
     public void sollSieben() {
-        assertEquals("2 /n 3 /n 5", siebDesEratosthenes(5));
+        Assert.assertEquals("2 /n 3 /n 5", siebDesEratosthenes(5));
     }
 
     private String siebDesEratosthenes(int i) {

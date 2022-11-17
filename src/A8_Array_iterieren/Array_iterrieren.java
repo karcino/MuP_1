@@ -10,9 +10,9 @@ public class Array_iterrieren {
     @Test
     public void shouldReturnAccurance() {
         int[] zahlen = {6,1,0,14,7,6,2};
-        assertEquals(1, anzahlVorkommen(zahlen, 0));
-        assertEquals(0, anzahlVorkommen(zahlen, 3));
-        assertEquals(2, anzahlVorkommen(zahlen, 6));
+        Assert.assertEquals(1, anzahlVorkommen(zahlen, 0));
+        Assert.assertEquals(0, anzahlVorkommen(zahlen, 3));
+        Assert.assertEquals(2, anzahlVorkommen(zahlen, 6));
     }
 
     private int anzahlVorkommen(int[] zahlen, int i) {
